@@ -21,7 +21,7 @@ The dashboard was created to explore five main questions:
 
 | Social Media Insights Dashboard |
 |---|
-| ![Social Media Insights Dashboard](Social-Media-Insights_Dashboard.png) |
+| ![Social Media Insights Dashboard](Screenshot/Social-Media-Insights_Dashboard.png) |
 
 #### Dashboard Components
 
